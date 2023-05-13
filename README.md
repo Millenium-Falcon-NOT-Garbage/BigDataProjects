@@ -12,7 +12,7 @@ American Heritage School - Class of 2023 - Computer Science Track - Big Data Pro
 ## Hardware Setup - Non-physical
 - Wifi on one node, with the other 4 nodes using the wifi node as a gateway
 - Enabling iptables and forwarding all packets 
-- Firewall to enable ports 3000, 9701, 3100, 9700
+- Firewall to enable ports 3000, 9701, 3100, 9700, 9090, and 9100
 - Prometheus, NodeExporter, and Grafana to visualize performance 
 - NFS server that allows file sharing between the nodes
 
